@@ -1,5 +1,5 @@
 # Ambar
-Ambar is a macOS Menu Bar app built with SwiftUI. It is a template project which means that it can be used as a starting point for a new Menu Bar app (with SwiftUI) project.
+Ambar is a macOS Menu Bar app built with SwiftUI. It is a template project which means that it can be used as a starting point for a new Menu Bar app (with SwiftUI) project. test
 
 <br>
 <p align="center"><img width=40% src="https://www.dropbox.com/s/feqbxi2f3nrdwl3/Ambar%20Hero.png?raw=1"></p>
